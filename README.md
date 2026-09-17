@@ -38,7 +38,7 @@ Un estudio de cine necesita decidir en qué géneros y con qué directores inver
 En 2 de los 4 directores analizados, ambos criterios apuntan a géneros distintos.
 
 | Director | Género de mayor ingreso | ROI de ese género | Género de mayor ROI | ROI |
-
+|---|---|---|---|---|
 | Ricardo Núñez | Ciencia Ficción (415M) | 2.18 | Acción | 3.71 |
 | Julián Restrepo | Acción (60M) | 1.50 | Drama | 2.15 |
 | Marta Colina | Terror (66M) | 7.33 | Terror | 7.33 |
